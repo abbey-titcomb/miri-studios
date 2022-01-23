@@ -1,0 +1,32 @@
+/* homepage */
+
+body {
+    background-color: #ffffff;
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
+    letter-spacing: 1.5px; 
+    cursor:url(http://www.rw-designer.com/cursor-extern.php?id=3504),auto;
+  }
+  
+  a {
+    color: #9E9E9E
+  }
+  
+  html {
+    margin: 0;
+    height: 100%;
+    cursor:url(http://www.rw-designer.com/cursor-extern.php?id=3504),auto;
+  }
+  
+  .header {
+    display: block;
+    width: 55%;
+    margin: auto;
+    padding-top: 120px;
+  }
+  
+  .body {
+  }
+  
+  .subtitle {
+  }
+  
