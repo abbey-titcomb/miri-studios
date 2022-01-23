@@ -23,10 +23,17 @@ body {
     margin: auto;
     padding-top: 120px;
   }
-  
-  .body {
+
+  p {
+    text-align: center;
+    color: #E8E0E8;
   }
   
-  .subtitle {
+  /* global */
+  
+  a:hover {
+    cursor:url(http://www.rw-designer.com/cursor-extern.php?id=153375),auto;
+    color: #EEEEEE;
   }
   
+   /* http://www.rw-designer.com/gallery?search=magic+&page=2 */
