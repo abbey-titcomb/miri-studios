@@ -17,17 +17,24 @@ body {
     cursor:url(http://www.rw-designer.com/cursor-extern.php?id=3504),auto;
   }
   
-  .header {
+  .img {
     display: block;
-    width: 55%;
+    text-align: center;
     margin: auto;
     padding-top: 50px;
   }
 
   p {
+    padding-bottom: 50px;
     text-align: center;
     color: #E8E0E8;
   }
+
+  @media only screen and (max-width: 480px) {
+    img {
+    width: 100%;
+    }
+    }
   
   /* global */
   
