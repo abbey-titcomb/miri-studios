@@ -4,7 +4,7 @@ body {
     background-color: #ffffff;
     font-family: "Trebuchet MS", Helvetica, sans-serif;
     letter-spacing: 1.5px; 
-    cursor:url(http://www.rw-designer.com/cursor-extern.php?id=3504),auto;
+    cursor:url(http://www.rw-designer.com/cursor-extern.php?id=18761),pointer;
   }
   
   a {
@@ -14,7 +14,7 @@ body {
   html {
     margin: 0;
     height: 100%;
-    cursor:url(http://www.rw-designer.com/cursor-extern.php?id=3504),auto;
+    cursor:url(http://www.rw-designer.com/cursor-extern.php?id=18761),pointer;
   }
   
   .img {
@@ -38,9 +38,9 @@ body {
   
   /* global */
   
-  a:hover {
-    cursor:url(http://www.rw-designer.com/cursor-extern.php?id=153375),auto;
+  /* a:hover {
+    cursor:url(http://www.rw-designer.com/cursor-extern.php?id=153376),auto;
     color: #EEEEEE;
-  }
+  } */
   
    /* http://www.rw-designer.com/gallery?search=magic+&page=2 */
